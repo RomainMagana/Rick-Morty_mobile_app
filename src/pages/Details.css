@@ -1,0 +1,8 @@
+.details__character {
+    font-size: 1.1rem!important;
+    margin-bottom: 5px!important;
+}
+
+ion-img::part(image) {
+    border-radius: 100px;
+}
